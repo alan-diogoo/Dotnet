@@ -1,0 +1,14 @@
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\bin\Debug\net8.0\jogo-de-Advinhacao.exe
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\bin\Debug\net8.0\jogo-de-Advinhacao.deps.json
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\bin\Debug\net8.0\jogo-de-Advinhacao.runtimeconfig.json
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\bin\Debug\net8.0\jogo-de-Advinhacao.dll
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\bin\Debug\net8.0\jogo-de-Advinhacao.pdb
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.AssemblyInfoInputs.cache
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.AssemblyInfo.cs
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.csproj.CoreCompileInputs.cache
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.dll
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\refint\jogo-de-Advinhacao.dll
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.pdb
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\jogo-de-Advinhacao.genruntimeconfig.cache
+C:\Users\alan0\Documents\Trabalho Pratico 01\jogo-de-Advinhacao\obj\Debug\net8.0\ref\jogo-de-Advinhacao.dll
